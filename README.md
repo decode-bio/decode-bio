@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sneha, lets @decode-bio
 - 👀 I’m interested in decoding the valuable insights from data+healthcare+biological
 - 🌱 I’m currently learning Bioinformatics + Data Analysis
-- 💞️ I’m looking to collaborate on data analysis or bioinfo (WGS, RNA-seq, NGS data analysis)
+- 💞️ I’m looking to learn through real-world experience on data analysis.
 - 📫 Reach out to me sneha.biocode@gmail.com / ss10.deshmukh@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Data = New Love
